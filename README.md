@@ -1,1 +1,1 @@
-A simple message board as part of a web development course project. 
+A simple message board prototype using the LAMP stack
